@@ -1,0 +1,8 @@
+Origin: MiniStaX
+Label: MiniStaX repo
+Suite: stable
+Version: 1.0
+Codename: ministaxrepo
+Architectures: iphoneos-arm
+Components: main
+Description: MiniStaX Cydia Repository
